@@ -1,3 +1,3 @@
 ```bash
-My Personal Portfolio website
+My Personal Portfolio Website
 ```
